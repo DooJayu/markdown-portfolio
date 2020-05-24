@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+1. Python is cool
+2. Competitive games
+ 
